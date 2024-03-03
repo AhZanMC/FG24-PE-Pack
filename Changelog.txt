@@ -1,0 +1,105 @@
+Info Changelog Texture FG24 PE Pack
+=================================
+Texture : FG24 PE Pack
+Creator : AhZanMC
+=================================
+
+/// Changelog ///
+Versi 0.6.0 (Shaderless Update)
+1.)Shadernya sekarang support renderdragon :v
+- Custom Fog (Masih tahap beta :v)
+- Custom sky (cuma cubemap)
+- Air lebih keren
+- Pewarnaan World lebih bagus
+2.)Perubahan pada texture netherrack
+3.)Texture daun,grass,tanaman kembali ke semula (texture faithful)
+4.)Texture Wild Update Hadir di Texture Ini
+5.)Fitur subpacks telah ditambahkan 
+- Button
+- No Button
+- No Button + Sfx MC Java
+6.)Fix bug pada UI Beacon
+
+Versi 0.5.5 (Beta)
+1.)Shader dihapus karena udah nggak support sama renderdragon
+2.)Perubahan pada texture netherrack
+3.)Texture daun dan grass kembali ke semula
+4.)Beberapa texture ada yang berubah
+5.)Texture Wild Update Hadir di Texture Ini
+6.)Itu saja :v
+
+Versi 0.5.2 (Beta)
+1.)Subpack ditambahkan
+2.)Ditambahkan sfx Mcpc
+3.)Itu aja moga aja gk nge bug
+
+Versi 0.5.0
+1.)Shader Update (Player Shadow sudah ditambahkan)
+2.)Update pada painting
+3.)Background Profile Sudah Diubah
+4.)Outline selection berwarna putih
+5.)Custom death screen
+6.)Perubahan GUI supaya lebih bagus (Hanya sedikit)
+7.)Connected Tinted Glass
+
+Versi 0.4.0 (Reborn)
+1.)Shader lebih keren
+2.)Lens flare masih ditambahkan
+3.)Texture Cave and Clift telah ditambahkan
+4.)Autocomplete chat telah ditambahkan
+5.)GUI lebih diperbagus
+6.)Texture ini telah lahir kembali :)
+
+Note : di versi ini,texture ini bangkit kembali :)
+
+Versi 0.3.0 Beta (CBT)
+1.)Ditambahkan Subpacks
+2.)Dirilis versi tanpa shader
+
+Note : Tetapi versi ini memiliki masalah yang membuat texture ini
+nggak bisa di update
+
+Versi 0.2.7
+1.)Nether update telah hadir di texture ini
+2.)Shader update
+3.)Update pada GUI (Custom GUI dan diperbagus seperti GUI pada texture faithful)
+4.)Custom Splashes text dan Custom Loading Message
+5.)Ditambahkan Lens flare
+6.)Tidak ada Circle Touch
+7.)Custom death screen
+8.)Fixed Bug (Perbaikan Bug)
+9.)Texture lebih diperbagus
+10.)Air lebih keren
+11.)Fix bug
+
+Versi 0.1.5 (Beta)
+1.)Ada fitur show FPS
+2.)Bisa duduk (dengan cara sneak)
+3.)Beberapa texture udah realistik dan smooth/halus
+4.)item udah halus (64x64) mungkin belum sepenuhnya :)
+5.)Awan cubemap sudah berubah
+6.)Texture Buzzy Bees Update (lebah,sarang,dll) sudah ditambahkan dan lebih smooth
+7.)Dll
+
+Versi 0.1.0 (Versi awal)
+1.)Ada tambahan shader keren
+2.)Langitnya bagus dan realistis
+3.)Full Grass
+4.)Texturenya Faithful 32x32
+5.)Air lebih bening
+6.)Rumput dan daun bergerak
+7.)Paintingnya berubah
+8.)GUI lebih diperbagus lagi
+9.)Texture aquatic update dan village and pillage update telah ditambahkan
+10.)Fix bug
+
+Versi 0.1.0 Pre-released
+1.)Shader yang keren
+2.)Texture Faithful 32x
+3.)Connected Glass
+4.)GUI yang lebih keren
+5.)Panorama (Background main menu) bertema luar angkasa
+6.)Fitur Framerate ditambahkan
+7.)Full Grass
+
+=================================
